@@ -24,5 +24,4 @@ Building real-world management systems like this helps solve everyday problems w
 contact for full working version (professorshami435@gmail.com)
 
 
-If you want, I can make it **more audience-grabbing and viral for LinkedIn reach** (with stronger hooks and hashtags).
 
