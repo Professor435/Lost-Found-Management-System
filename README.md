@@ -21,7 +21,7 @@ Building real-world management systems like this helps solve everyday problems w
 
 #WebDevelopment #FullStackDeveloper #SoftwareDevelopment #ProjectShowcase #DatabaseManagement #UIDesign #UXDesign #TechProjects #Innovation #DeveloperJourney #Coding #Programming #OpenToWork #LinkedInProjects #GitHub #100DaysOfCode #WebAppDevelopment #StudentDeveloper
 
-contact for full working version (professorshami435@gmail.com)
+contact us for more or private Projects (professorshami435@gmail.com)
 
 
 
