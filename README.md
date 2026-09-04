@@ -8,7 +8,7 @@ This system allows users to **report lost belongings, submit found items, search
 
 🔹 **Key Features:**
 ✔️ Report Lost Items 
-✔️ Submit Found Items 
+✔️ Submit Found Items  
 ✔️ Search & Filter Records
 ✔️ User Authentication
 ✔️ Claim Request Management
