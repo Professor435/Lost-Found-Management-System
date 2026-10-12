@@ -6,7 +6,7 @@ I developed a **web-based Lost & Found Management System** designed to simplify 
 
 This system allows users to **report lost belongings, submit found items, search item records, and track claim status** through a clean and user-friendly interface. The main goal of this project is to reduce the hassle of manual record-keeping and improve the chances of reconnecting lost items with their rightful owners.
 
-🔹 **Key Features:**
+🔹 **Key Features:** 
 ✔️ Report Lost Items  
 ✔️ Submit Found Items  
 ✔️ Search & Filter Records
